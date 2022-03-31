@@ -1,1 +1,1 @@
-Script to permute numbers.
+A script to permute numbers.
